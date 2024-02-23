@@ -1,0 +1,21 @@
+.titulo {
+    background-color: rgb(10, 198, 255);
+    padding: 30px;
+}
+
+.puff {
+    background-color: rgb(240, 105, 105);
+    padding: 30px;
+}
+
+.puff2 {
+    display: inline-block;
+    background-color: aquamarine;
+    padding: 5px 10px;
+}
+
+.puff3 {
+    display: inline-block;
+    background-color: aquamarine;
+    padding: 5px 10px;
+}
